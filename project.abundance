@@ -903,7 +903,7 @@
             "compiledBom": []
         },
         {
-            "atomType": "Join",
+            "atomType": "Assembly",
             "name": "Assembly",
             "x": 0.7003968253968255,
             "y": 0.2757660167130919,
@@ -1306,13 +1306,13 @@
                         }
                     ],
                     "description": "Changes the color of the shape.",
-                    "selectedColorIndex": 21
+                    "selectedColorIndex": 22
                 },
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 0.5383597883597884,
-                    "y": 0.3342618384401114,
+                    "x": 0.53505291005291,
+                    "y": 0.3175487465181059,
                     "uniqueID": 1735931964719,
                     "ioValues": [
                         {
@@ -1324,7 +1324,7 @@
                     "selectedColorIndex": 19
                 },
                 {
-                    "atomType": "Join",
+                    "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 0.6765873015873016,
                     "y": 0.5097493036211699,
@@ -1490,8 +1490,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 0.3141534391534392,
-            "y": 0.6880222841225626,
+            "x": 0.31547619047619047,
+            "y": 0.7688022284122563,
             "uniqueID": 1735932365372,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1576,7 +1576,7 @@
                     "description": "Extrudes a 2D shape. Input can be negitive. "
                 },
                 {
-                    "atomType": "Join",
+                    "atomType": "Assembly",
                     "name": "Fusion",
                     "x": 0.5509259259259259,
                     "y": 0.6462395543175488,
@@ -1660,8 +1660,8 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 0.628968253968254,
-                    "y": 0.7715877437325905,
+                    "x": 0.6309523809523809,
+                    "y": 0.7493036211699164,
                     "uniqueID": 1735932760458,
                     "ioValues": [
                         {
@@ -1755,10 +1755,10 @@
                         }
                     ],
                     "description": "Changes the color of the shape.",
-                    "selectedColorIndex": 21
+                    "selectedColorIndex": 22
                 },
                 {
-                    "atomType": "Join",
+                    "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 0.673941798941799,
                     "y": 0.41225626740947074,
@@ -1971,7 +1971,7 @@
                     "description": "Extrudes a 2D shape. Input can be negitive. "
                 },
                 {
-                    "atomType": "Join",
+                    "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 0.2585978835978836,
                     "y": 0.29526462395543174,
@@ -1993,8 +1993,8 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 0.2718253968253968,
-                    "y": 0.7855153203342619,
+                    "x": 0.26719576719576715,
+                    "y": 0.7799442896935932,
                     "uniqueID": 1735934765157,
                     "ioValues": [
                         {
@@ -2003,7 +2003,7 @@
                         }
                     ],
                     "description": "Changes the color of the shape.",
-                    "selectedColorIndex": 21
+                    "selectedColorIndex": 22
                 },
                 {
                     "atomType": "GitHubMolecule",
@@ -2137,7 +2137,7 @@
                             "description": "Extrudes a 2D shape. Input can be negitive. "
                         },
                         {
-                            "atomType": "Join",
+                            "atomType": "Assembly",
                             "name": "Fusion",
                             "x": 0.4722222222222222,
                             "y": 0.33147632311977715,
@@ -2392,7 +2392,7 @@
                     "description": "Moves a shape laterally in X, Y, Z."
                 },
                 {
-                    "atomType": "Join",
+                    "atomType": "Assembly",
                     "name": "Join",
                     "x": 0.6468253968253969,
                     "y": 0.6183844011142061,
