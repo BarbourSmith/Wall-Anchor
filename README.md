@@ -2,7 +2,7 @@
 
 # Wall-Anchor
 
-![](/project.svg)
+![](/project.png)
 
 
 
